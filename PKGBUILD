@@ -14,4 +14,6 @@ makedepends=()
 provides=()
 conflicts=()
 install="script.install"
-package() {}
+package() {
+  # noop
+}
