@@ -16,4 +16,5 @@ conflicts=()
 install="script.install"
 package() {
   # noop
+  true
 }
